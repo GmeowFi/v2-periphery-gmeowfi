@@ -1,2 +1,8 @@
 build/
 node_modules/
+.yarn
+.env
+cache/
+typechain-types
+.yarnrc
+artifacts/
